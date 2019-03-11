@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
-import { Navbar, Nav, NavItem, FormControl, Form, Button } from 'react-bootstrap';
-import { Link, NavLink } from 'react-router-dom';
-import {Icon, IconButton} from 'evergreen-ui';
+import {Form, FormControl, Button} from 'react-bootstrap';
+import { Link} from 'react-router-dom';
+import {} from 'evergreen-ui';
 import "w3-css/w3.css";
 import {Layout, Header, Navigation, Drawer, Content} from 'react-mdl';
 import Main from './components/main'
